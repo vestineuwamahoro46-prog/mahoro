@@ -1,0 +1,6 @@
+{
+  "name": "AcuityResearch - Evidence-Based Research & Survey Intelligence Platform",
+  "description": "Comprehensive web platform for publishing, managing, and conducting academic, compliance, and policy research studies with dynamic questionnaire engine and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
